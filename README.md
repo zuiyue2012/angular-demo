@@ -1,3 +1,7 @@
+# 正则
+非正整数/^((-\d+)|(0+))$/
+非负整数/^((\d+)|(0+))$/
+
 # AngularDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
